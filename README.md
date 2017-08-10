@@ -1,3 +1,3 @@
 # gitteste
 
-Teste inicial do repossstiório legal!!!
+Teste inicial do repositório legal!!!
